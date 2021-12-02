@@ -22,9 +22,10 @@
 - :high_brightness: <b>Language skills</b> <br>
   :beginner: English: can read, write technical documents and communicate effectively. <br>
 - :high_brightness: <b>Technical skills</b> <br>
-  :beginner: Languages: Java, C#, SQL, HTML, CSS, Javascript <br>
+  :beginner: Focusing on Front-end technologies <br>
+  :beginner: Languages:  HTML, CSS, Javascript, Java, C#<br>
   :beginner: Databases: SQL Server <br>
-  :beginner: Frameworks: Entity Framework Core, ASP.NET Core MVC, JUnit <br>
+  :beginner: Frameworks: Boostrap, Entity Framework Core, ASP.NET Core MVC, JUnit <br>
 
 <h2>My project :star:</h2>
 <p>
@@ -42,5 +43,5 @@
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/minh-hoang0105) [<img src = "https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white">](https://minhtrn0105@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/minh-hoang0105) [<img src = "https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100030660761469)
 
