@@ -22,10 +22,10 @@
 - :high_brightness: <b>Language skills</b> <br>
   :beginner: English: can read, write technical documents and communicate effectively. <br>
 - :high_brightness: <b>Technical skills</b> <br>
-  :beginner: Focusing on Front-end technologies <br>
-  :beginner: Languages:  HTML, CSS, Javascript, Java, C#<br>
-  :beginner: Databases: SQL Server <br>
-  :beginner: Frameworks: Boostrap, Entity Framework Core, ASP.NET Core MVC, JUnit <br>
+  :beginner: Focusing on Front-end technologies. <br>
+  :beginner: Languages:  HTML, CSS, Javascript, Java, C#.<br>
+  :beginner: Databases: SQL Server. <br>
+  :beginner: Frameworks: Boostrap, Entity Framework Core, ASP.NET Core MVC, JUnit.<br>
 
 <h2>My project :star:</h2>
 <p>
