@@ -42,5 +42,5 @@
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/minh-hoang0105) [<img src = "https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmai&logoColor=white">](minhtrn0105@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/minh-hoang0105) [<img src = "https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white">](https://minhtrn0105@gmail.com)
 
