@@ -18,7 +18,7 @@
 </div>
 </details>
 
-- I'm currently a student at FPT University (semester 5/9) studying software engineering, majoring in Cross-platform application development.
+- I'm currently a student at FPT University (semester 9/9) studying software engineering, majoring in Cross-platform application development.
 - :high_brightness: <b>Language skills</b> <br>
   :beginner: English: can read, write technical documents and communicate effectively. <br>
 - :high_brightness: <b>Technical skills</b> <br>
@@ -39,6 +39,12 @@
   - A website to manage staff and books of a bookstore <br>
   - Using Visual Studio 2019, ASP.NET Core MVC, Entity Framework Core, SQL Server. <br>
   - Link to GitHub: <a href="https://github.com/Minh0105/BookManagementWeb.git">Bookstore Management</a>
+</p>
+<p>
+:point_right: <strong>Candy Store Web Application</strong> | ASP.NET Core Web API - Back-end developer | Semester 8/9 | Nov 2022 <br>
+  - A website that sells various types of candy also manages the buying orders. <br>
+  - Using Visual Studio 2019, ASP.NET Core Web API, Entity Framework Core, SQL Server. <br>
+  - Link to GitHub: <a href="https://github.com/Sweet-Inc/backend.git">Candy Store</a>
 </p>
 
 <h2>Connect with me!</h2>
